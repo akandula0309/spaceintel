@@ -1,0 +1,9 @@
+pip install pandas
+pip install xlrd
+pip install flask
+pip install bson
+pip install numpy
+pip install mysql
+pip install hashlib
+pip install jsonify
+pip install url_for

@@ -1,0 +1,2 @@
+1. Update Query -
+db.team.update({}, {$set: {"sport_id": "1"}}, false, true)
